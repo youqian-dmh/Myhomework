@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="testTitle" />
+    <string-array name="testOption1" />
+    <string-array name="testOption2" />
+    <string-array name="testOption3" />
+    <string-array name="anwser" />
+    <string-array name="prodArr" />
+    <string-array name="catArr" />
+</resources>
